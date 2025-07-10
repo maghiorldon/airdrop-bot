@@ -1,0 +1,11 @@
+{
+  "name": "airdrop-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ethers": "^6.0.0",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^20.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
